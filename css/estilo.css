@@ -24,7 +24,7 @@ h1,h2,h3{
 
 /*Menu*/
 .collapse{
-    margin-left: 60%;
+    margin-left: 35%;
     font-size: 20px;
 }
 
@@ -34,12 +34,16 @@ h1,h2,h3{
 }
 
 .color-menu{
-    color:#6eaa5e;
+   background-color:#6eaa5e;
+}
+
+.nav-link{
+    color: black;
 }
 
 /*footer*/
 footer{
-    background-color:#6eaa5e; ;
+    background-color:#6eaa5e; 
     height: 200px;
 }
 
@@ -49,14 +53,15 @@ footer{
 }
 
 .img-logo2{
-    width: ;
-    margin-left: 47%;
+    width: 20%;
+    margin-left: 20%;
+
 }
 
 
 /* sobre*/
 #sobre{
-    height: 450px;
+    height: 500px;
 }
 .sobre{
     background-color: #b7d5ac;
@@ -67,6 +72,8 @@ footer{
     width: 30%;
     margin-left: 30%;
 }
+
+
 
 /*info*/
 #info{
@@ -113,4 +120,19 @@ footer{
 #contato{
     margin-top: 10%;
     margin-bottom: 10%;
+}
+
+input{
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 33%;
+    margin-top: 5%;
+}
+
+.btn{
+    font-family: 'Indie Flower', cursive;
+    background-color: #b7d5ac ;
+    margin-left: 43%;
+    margin-top: 5%;
+
 }
